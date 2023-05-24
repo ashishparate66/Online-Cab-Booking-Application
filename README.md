@@ -55,7 +55,7 @@ Administrator can see all Customers, Cabs, Drivers, Trips, Bookings.
 5. Get the list of all best available(rated>=4.5) drivers
 
 ## The ER-Diagram :
-<img scr="https://github.com/ashishparate66/Online-Cab-Booking-Application/blob/main/OnlineCabBookingApplication/ER.pdf"/>;
+[ER.pdf](https://github.com/Jasmin2410/Online-Cab-Booking-Application/files/11550715/ER.pdf)
 
 
 ## Setting & Installation 
