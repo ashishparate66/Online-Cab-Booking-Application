@@ -55,7 +55,8 @@ Administrator can see all Customers, Cabs, Drivers, Trips, Bookings.
 5. Get the list of all best available(rated>=4.5) drivers
 
 ## The ER-Diagram :
-https://drive.google.com/file/d/1zX_ThyZ0B9CvyMcjC7OEjyZXPeMdPP9T/view?usp=drive_link
+
+![ER-Daigram](https://drive.google.com/file/d/1zX_ThyZ0B9CvyMcjC7OEjyZXPeMdPP9T/view?usp=drive_link)
 
 ## Setting & Installation 
 
